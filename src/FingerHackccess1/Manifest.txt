@@ -1,0 +1,7 @@
+NEDEED LIBRARIES
+DHT sensor library by adafruit 1.3.x
+Keypad bu Mark Stanley, Alexander Brevig
+CapavitiveSensor by Paul Badger, Paul Stroffregen
+Adafruit Fingerprint Sensor Library by Adafruit
+ 
+Delete %PRogramFiles%Arduino/WIFI
