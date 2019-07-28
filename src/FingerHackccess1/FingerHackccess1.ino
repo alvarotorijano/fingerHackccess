@@ -32,8 +32,8 @@
 #define DHT_THRESHOLD 500
 #define TIEMPO_BRILLO         5.0      //Tiempo en segundos que se mantendra la pantalle encendida al mostrar un mensaje
 #define TIEMPO_MENSAJE        3.5      //Tiempo que se mantendra en la pantalla el mensaje
-#define WIFI_SSID   "ToryAP"
-#define WIFI_PASS   "12345678900"
+#define WIFI_SSID   "yourAP"
+#define WIFI_PASS   "yourPass"
 #define DDNS_TIMEOUT 1000
 #define FINGERREADER_CHECK_TIMEOUT 5000
 #define WIFI_CHECK_TIMEOUT 500
@@ -910,4 +910,3 @@ void convertUnixTime (time_t t, byte * hour_ds3231, byte * minute_ds3231, byte *
   * month_ds3231++;
 }
 #endif
-
